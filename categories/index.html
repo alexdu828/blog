@@ -73,6 +73,8 @@
 
 
 
+  
+
 
   <link rel="alternate" href="/blog/atom.xml" title="无语" type="application/atom+xml">
 
@@ -284,7 +286,7 @@
 
   
 
-
+  
 
         </div>
         
@@ -586,6 +588,23 @@
 
 
 
+
+
+
+  <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+  <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+   <script type="text/javascript">
+        var gitalk = new Gitalk({
+          clientID: '01b58c6d03344a99aca8',
+          clientSecret: 'e283c8a5770971e157a5db33ea101a05d5a995c3',
+          repo: 'alexdu828.github.io',
+          owner: 'alexdu828',
+          admin: ['alexdu828'],
+          id: location.pathname,
+          distractionFreeMode: 'true'
+        })
+        gitalk.render('gitalk-container')
+       </script>
 
 
 
