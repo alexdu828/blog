@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://alexdu828.github.io/blog/"/>
   <updated>2019-06-12T01:41:37.635Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://alexdu828.github.io/blog/</id>
   
   <author>
     <name>SKYRIM</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>test_my_site</title>
-    <link href="http://yoursite.com/2019/06/12/test-my-site/"/>
-    <id>http://yoursite.com/2019/06/12/test-my-site/</id>
+    <link href="https://alexdu828.github.io/blog/2019/06/12/test-my-site/"/>
+    <id>https://alexdu828.github.io/blog/2019/06/12/test-my-site/</id>
     <published>2019-06-12T01:41:37.000Z</published>
     <updated>2019-06-12T01:41:37.635Z</updated>
     
@@ -32,8 +32,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/06/12/hello-world/"/>
-    <id>http://yoursite.com/2019/06/12/hello-world/</id>
+    <link href="https://alexdu828.github.io/blog/2019/06/12/hello-world/"/>
+    <id>https://alexdu828.github.io/blog/2019/06/12/hello-world/</id>
     <published>2019-06-12T01:40:19.204Z</published>
     <updated>2019-06-12T01:40:19.204Z</updated>
     
